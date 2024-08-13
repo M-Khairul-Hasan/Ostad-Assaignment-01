@@ -1,0 +1,36 @@
+.btn-alfa {
+  color: #462323;
+  background-color: #5cf8bc;
+  border-color: #5cf8bc;
+}
+.btn-alfa:hover {
+  color: #fff;
+  background-color: #26f7a7;
+  border-color: #2d9e73;
+}
+.bg-primary{
+  background-color: rgba(53, 48, 50, 0.829) !important;
+  border-radius: 5px;
+  font-size: 30px;
+}
+.navbar{
+  background-color: #462323;
+}
+.nav-b a{
+  color: #d14f20;
+}
+.page-link{
+  background-color: #07f398bc;
+  color: #e8e3e3;
+}
+.page-link:hover{
+  background-color: #057f50bc;
+  color: #e8e3e3;
+}
+.justify-content{
+  text-align: justify;
+}
+.list-active{
+  background-color: #d14f20 !important;
+  color: #fff;
+}
